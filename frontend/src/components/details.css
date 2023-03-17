@@ -1,0 +1,110 @@
+#add_btn{
+    text-decoration: none;
+    padding: 8px;
+    margin-top: 20px;
+    margin-left: 0px;
+    border-radius: 5px;
+    float: left;
+    font-size: 15px;
+    margin-right:550px;
+
+  }
+
+#deleteBtn{
+    background-color: rgb(252, 83, 78);
+    font-family: "Poppins" , sans-serif;
+    border:none;
+    padding: 8px;
+    border-radius: 5px;
+    font-size: 5px;
+}
+
+
+
+#updateBtn{
+    background-color: rgb(28, 243, 4);
+    font-family: "Poppins" , sans-serif;
+    border:none;
+    padding: 8px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+#report_btn{
+    text-decoration: none;
+    padding: 8px;
+    margin-top: 20px;
+    margin-right: 60px;
+    border-radius: 5px;
+    float: right;
+    width:110px;
+    font-size: 15px;
+}
+
+
+#search{
+    float:right;
+    margin-top: 20px;
+    margin-right: 35px; 
+    background-color:white;
+    width:260px;
+    border-radius: 12px;
+    
+}
+
+#search input{
+    resize: none;
+    height:45px;
+    border:solid 3px rgb(225, 225, 241);
+    border-radius: 12px;
+   
+}
+
+
+.top{
+    margin-top: 0px;
+    padding:35px;
+}
+
+.details{
+    margin-top: 40px;
+    padding:30px;
+}
+
+th{
+    background-color: #0cdd90;
+    color: rgb(251, 34, 74);
+    padding:25px;
+}
+
+.table{
+    margin-top: 30px;
+    font-size: 13px;
+    padding:60px;
+}
+
+.nav-item{
+    padding:10px;
+}
+  
+
+::placeholder{
+    font-size: 13px;
+    margin:0px;
+
+}
+
+.itemImage{
+    width:70px;
+    height: 80px;
+}
+
+.vehicleform{
+    margin: 50px;
+}
+
+.vehicleInput{
+    width:250px;
+    height:30px;
+    border-radius: 4px;
+}
